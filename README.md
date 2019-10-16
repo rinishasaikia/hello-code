@@ -1,2 +1,2 @@
 # hello-code
-just another repository readme.md
+just another repository.
