@@ -1,2 +1,2 @@
 # hello-code
-just another repository.
+It is child another repository.
